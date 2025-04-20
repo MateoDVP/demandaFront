@@ -1,8 +1,8 @@
-# Proyecto Frontend con React y Vite
+# 📊Proyecto Frontend con React y Vite
 
 Este es un proyecto frontend construido con **React** y **Vite**. 
 
-## Requisitos previos
+## ⚙️Requisitos previos
 
 - **Node.js**
 Para ejecutar el proyecto:
